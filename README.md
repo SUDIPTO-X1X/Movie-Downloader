@@ -1,7 +1,7 @@
 # 🎬 Telegram Movie Info Bot
 
 A smart Telegram bot that provides **movie details, and All resulation download links** just by typing the movie name!  
-Built with ❤️ using **Python** and the **Telegram Bot API**.
+Built with using **Python** and the **Telegram Bot API**.
 
 ---
 
