@@ -35,9 +35,9 @@ Built with using **Python** and the **Telegram Bot API**.
 
 If you’re interested in using, improving, or for any help on this project, feel free to connect!  
 
-**👤 Developer:** .[Who knows].
 **💬 Telegram:** [@Berlin_6T9](https://t.me/Berlin_6T9)  
 **🌐 GitHub:** [github.com/SUDIPTO-X1X](https://github.com/SUDIPTO-X1X)  
 
 > 💡 *Suggestions and contributions are always welcome!*
 > 
+
